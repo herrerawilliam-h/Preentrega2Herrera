@@ -73,3 +73,33 @@ h2.mensaje-Pantalla-Subtítulo{
     width: 100%;
     padding: 10px;
 }
+.hamburguesa{
+    color: white;
+}
+.contenido-Cursos{
+    background-color: #fff;
+    color: black;
+    height: 100%;
+    width: 100%;
+    padding: 3%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenido-Blog{
+    background-color: #fff;
+    color: black;
+    height: 100%;
+    width: 100%;
+    padding: 3%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
